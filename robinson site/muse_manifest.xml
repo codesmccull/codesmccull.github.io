@@ -1,0 +1,58 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://github.com/codesmccull/robinsonhall" resolutions="1x" timestamp="1477681936783">
+  <folder name="css">
+    <file name="site_global.css" crc="175080295"/>
+    <file name="index.css" crc="4016908828" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="webpro.js" crc="329496574" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="form_check.php" crc="3805695515" ref="index"/>
+    <file name="form_throttle.php" crc="3802629389" ref="index"/>
+    <file name="form_process.php" crc="54267062" ref="index"/>
+    <file name="form-u408.php" crc="368577468" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="dsc_0268.jpg" crc="4031924290" ref="index"/>
+    <file name="robinsonhall18.png" crc="4220232409" seo="true" ref="index"/>
+    <file name="robinson111.jpg" crc="4056389998" seo="true" ref="index"/>
+    <file name="13613231784_45ebe2dc3f_b-u3477-fr.png" crc="507933782" ref="index"/>
+    <file name="u3467-4.png" crc="4276626718" ref="index"/>
+    <file name="movie_vintage_poster_by_brochet77.jpg" crc="303791294" ref="index"/>
+    <file name="u4271-4.png" crc="4223410772" ref="index"/>
+    <file name="gallery_image_1.jpg" crc="4190865424" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="gallery_image_3.jpg" crc="411213504" seo="true" ref="index"/>
+    <file name="gallery_image_0.jpg" crc="3924448944" seo="true" ref="index"/>
+    <file name="gallery_image_2.jpg" crc="3842035824" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u413-17.png" crc="385298059" ref="index"/>
+    <file name="u413-17-r.png" crc="433070835" ref="index"/>
+    <file name="u413-17-m.png" crc="433070835" ref="index"/>
+    <file name="u413-17-fs.png" crc="385298059" ref="index"/>
+    <file name="u4196-4.png" crc="294731781" ref="index"/>
+    <file name="map.png" crc="484497594" seo="true" ref="index"/>
+    <file name="old-handphone.png" crc="329542034" seo="true" ref="index"/>
+    <file name="facebook-placeholder-for-locate-places-on-maps.png" crc="262892636" seo="true" ref="index"/>
+    <file name="close-envelope.png" crc="4107440592" seo="true" ref="index"/>
+    <file name="u2565.png" crc="3932422251" ref="index"/>
+    <file name="u2565-r.png" crc="3859179671" ref="index"/>
+    <file name="u2565-m.png" crc="4225736759" ref="index"/>
+    <file name="u2563.png" crc="4018319614" ref="index"/>
+    <file name="u2563-r.png" crc="3820117992" ref="index"/>
+    <file name="u2563-m.png" crc="357592121" ref="index"/>
+    <file name="u2567.png" crc="309771182" ref="index"/>
+    <file name="u2567-r.png" crc="4248346238" ref="index"/>
+    <file name="u2567-m.png" crc="4158613179" ref="index"/>
+  </folder>
+  <file name="index.html" crc="448836470" seo="true" mt="1477681524254" redirect="true"/>
+</manifest>
